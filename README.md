@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PSRSfinance
-- 👀 I’m interested in solidity project
+- 👀 I’m devloper of PSRS Finance 
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
